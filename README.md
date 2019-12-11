@@ -2,23 +2,25 @@
 
 # IT Infrastructure Optimization: OPM Calc Replacement Implementation
 
-## How to respond to this RFI
+## How to respond to this RFQ
 
-**This RFI is issued for ALLIANT 2 awardees only.** Anyone on ALLIANT 2 interested in responding to this RFI with feedback on our [Draft PWS](Draft-PWS.pdf) is encouraged to complete the RFI using the link previously provided to them.
+**This RFQ is issued for ALLIANT 2 awardees only.** Should anyone on ALLIANT 2 have any questions or feedback related to this [Request for Quote](https://github.com/GSA/RFQ-OPM-Calc-Replacement.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSe0JiUpSgkHsIAImIshW_FRDSh_tSO--8tWde1GlXwCOGLb_Q/viewform) no later than *December 16, 2019 at noon, eastern*.
 
-**Responses for the RFI are due no later than the date and time indicated in that same email.**
+**Responses for the RFQ are due no later than January 6, 2019 at noon, eastern.**
 
-Again, please note that this RFI is open only to contractors on ALLIANT 2. We cannot commit to considering anything sent to us by anyone other than contractors on ALLIANT 2. Additionally, we cannot commit to considering anything sent to us by contractors on ALLIANT 2 sent past the deadline or via any medium other than the Google Form, both of which were provided via email.
+Again, please note that this RFQ is open only to contractors on ALLIANT 2. We cannot commit to considering anything sent to us by anyone other than contractors on ALLIANT 2. ALLIANT 2 contractors are encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well. 
+
+Additionally, we cannot commit to considering anything sent to us by contractors on ALLIANT 2 sent past the deadline or via any medium. 
 
 ## Background
 
-CoE in partnership with OPM, is modernizing the Federal Annuity Claims Expert System (FACES). Retirement Services (RS) is the OPM program division responsible for the administration of retirement benefits. RS staff members depend on FACES to adjudicate about 80,000 federal retirement benefit actions every year. FACES is a reliable and accurate system, but it was built with tools that are no longer supported by the manufacturer, which makes it difficult to update and maintain. FACES wasn’t originally designed as enterprise software and there is limited documentation that describes how FACES works. Also, there is no disaster recovery plan in place in case the application suffers critical failure. Legal Administrative Specialists (LAS) depend on FACES to do their jobs. Their retirement benefits expertise is essential to the adjudication of cases, but making up for the legacy app’s shortcomings forces them to squander time and focus. 
+GSA’s Centers of Excellence (CoE), in conjunction with the U.S. Office of Personnel Management (OPM), is introducing a calculation service as part of the larger effort to modernize the retirement benefits system for federal employees.
 
-OPM is replacing both the FACES desktop app and the calculator that the app relies on to determine retirement benefits. The app replacement and the calculator replacement are separate projects, but the teams supporting each will communicate regularly. Both projects will begin at roughly the same time, but the Government expects to complete the replacement app well in advance of the replacement calculator. Early in the process, the Contractor responsible for the replacement calculator will supply the app replacement team with application program interface (API) specifications.  
+Retirement Services (RS) is the OPM program division responsible for the administration of retirement benefits. To determine benefits today, RS staff members depend on a calculator that is reliable and accurate, but was built with technology that is no longer supported by its manufacturer. Business rules are expressed as hard-coded formulas that exist inside and outside of the calculator. Updating the calculator is laborious and inefficient as a result.
 
 ## Purpose
 
-The purpose of the OPM Calculator Replacement contract is to replace the current calculator with a calculation service. Rather than replicating an approach based on formulas, the service will introduce a system for managing business rules that, when applied, will result in calculations. The calculator will be wrapped in an Application Programming Interface (API) that will provide access for the FACES app, as well as for applications created outside of OPM. The current FACES app and its replacement must both access the new calculation service.  
+The purpose of this contract is to replace the current calculator with a calculation service. The service will contain all the calculations required to compute the amount of money a federal retiree should receive. The service will be capable of accepting queries from any authorized app via an application program interface (API), calculating a benefit based on a set of business rules and returning a dollar amount via API. It will be one of OPM’s first modern, independent services and it will serve as an example of, and model for the agency’s modernization efforts.
 
 ## Other OPM-related work
 Please see the [main repository](https://github.com/GSA/coe-opm-acquisitions/) for information on all procurement related information to the OPM and CoE engagement.
