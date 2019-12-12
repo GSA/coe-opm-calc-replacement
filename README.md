@@ -4,7 +4,7 @@
 
 ## How to respond to this RFQ
 
-**This RFQ is issued for ALLIANT 2 awardees only.** Should anyone on ALLIANT 2 have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-opm-calculation-service/blob/master/RFQ-OPM-Calc-Replacement.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSe0JiUpSgkHsIAImIshW_FRDSh_tSO--8tWde1GlXwCOGLb_Q/viewform) no later than *December 16, 2019 at noon, eastern*.
+**This RFQ is issued for ALLIANT 2 awardees only.** Should anyone on ALLIANT 2 have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-opm-calculation-service/blob/master/RFQ-OPM-Calculation-Service.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSe0JiUpSgkHsIAImIshW_FRDSh_tSO--8tWde1GlXwCOGLb_Q/viewform) no later than *December 16, 2019 at noon, eastern*.
 
 **Responses for the RFQ are due no later than January 6, 2019 at noon, eastern.**
 
