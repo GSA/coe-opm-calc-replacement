@@ -6,7 +6,7 @@
 
 **This RFQ is issued for ALLIANT 2 awardees only.** Should anyone on ALLIANT 2 have any questions or feedback related to this [Request for Quote](https://github.com/GSA/coe-opm-calculation-service/blob/master/RFQ-OPM-Calculation-Service.pdf), please fill out this [Q&A form](https://docs.google.com/forms/d/e/1FAIpQLSe0JiUpSgkHsIAImIshW_FRDSh_tSO--8tWde1GlXwCOGLb_Q/viewform) no later than *December 16, 2019 at noon, eastern*.
 
-**Responses for the RFQ are due no later than January 6, 2019 at noon, eastern.**
+**Responses for the RFQ are due no later than January 10, 2019 at noon, eastern.**
 
 Again, please note that this RFQ is open only to contractors on ALLIANT 2. We cannot commit to considering anything sent to us by anyone other than contractors on ALLIANT 2. ALLIANT 2 contractors are encouraged to review the instructions referenced in the timetable that immediately follows the cover page. Please remember to review any artifacts in the repository as well. 
 
